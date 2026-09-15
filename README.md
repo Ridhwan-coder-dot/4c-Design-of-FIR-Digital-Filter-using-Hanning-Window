@@ -43,7 +43,8 @@ title('Frequency Response of FIR LPF using Hanning Window');
 ```
 
 # CALCULATION :
-<img width="896" height="1523" alt="image" src="https://github.com/user-attachments/assets/eb1a7072-4d2e-4026-a06b-9287b31252ed" />
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 08 52 55" src="https://github.com/user-attachments/assets/4451575d-0054-4689-8beb-6f1657bedb3e" />
 
 
 # OUTPUT: 
