@@ -42,6 +42,10 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Hanning Window');
 ```
 
+# CALCULATION :
+<img width="896" height="1523" alt="image" src="https://github.com/user-attachments/assets/eb1a7072-4d2e-4026-a06b-9287b31252ed" />
+
+
 # OUTPUT: 
 <img width="761" height="688" alt="image" src="https://github.com/user-attachments/assets/b3553001-1828-4639-9afe-72c6b3bc0284" />
 
